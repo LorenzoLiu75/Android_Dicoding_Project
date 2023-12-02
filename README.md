@@ -4,3 +4,13 @@ The theme of the application that I made is about favorite songs where when each
 
 # Screenshots
 ## Main Page
+![activity_main.xml](https://github.com/LorenzoLiu75/Android_Dicoding_Project/blob/master/Screenshots/Screenshot_home_page.png)
+
+## Detail Page
+![activity_detail.xml](https://github.com/LorenzoLiu75/Android_Dicoding_Project/blob/master/Screenshots/Screenshot_detail_page.png)
+
+## Share Page
+![activity_detail.xml](https://github.com/LorenzoLiu75/Android_Dicoding_Project/blob/master/Screenshots/Screenshot_share_button.png)
+
+## About Page
+![activity_about.xml](https://github.com/LorenzoLiu75/Android_Dicoding_Project/blob/master/Screenshots/Screenshot_about_page.png)
